@@ -39,43 +39,7 @@
         <p>&copy; 2023 Jaguars Website. All rights reserved.</p>
     </footer>
 
-</body>
-</html>
 
 
-body {
-    font-family: 'Arial', sans-serif;
-    margin: 0;
-    padding: 0;
-}
-
-header {
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    padding: 20px;
-}
-
-main {
-    max-width: 800px;
-    margin: 20px auto;
-    padding: 20px;
-}
-
-section {
-    margin-bottom: 20px;
-}
-
-img {
-    max-width: 100%;
-    height: auto;
-}
-
-footer {
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    padding: 10px;
-}
 
 
